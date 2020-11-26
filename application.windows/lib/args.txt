@@ -1,0 +1,3 @@
+
+modalsynth
+modalsynth.jar,core.jar,controlP5.jar,Ess.jar

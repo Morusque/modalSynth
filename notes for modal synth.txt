@@ -1,0 +1,23 @@
+
+notes for modal synthesis : 
+
+material (used for resonator generation) :
+fondamental in herz
+frictions = difference between high and low frequencies amplitude
+detune = maximum detuning (on the higher partials)
+rigid = the more rigid the longer decay times of all modes
+curves = amplitude variations bewteen modes
+
+resonator :
+parameters :
+modes (number)
+contacts (number)
+width
+values :
+frequencies[modes]
+decay[modes]
+amplitude[modes][contacts]
+panner[modes][contacts]
+
+excitator :
+waveform with picks
